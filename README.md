@@ -6,3 +6,4 @@ Repository to share useful code
 * ```detrend.ipynb```: detrend monthly data with xarray
 ## Hendrik
 * ```Xarray_Animation.ipynb```: create simple animations out of xarray objects
+* ```Section_extraction.ipynb```: get i,j indices of section between two Lat/Lon points
