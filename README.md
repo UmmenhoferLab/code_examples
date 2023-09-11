@@ -8,3 +8,4 @@ Repository to share useful code
 ## Hendrik
 * ```Xarray_Animation.ipynb```: create simple animations out of xarray objects
 * ```Section_extraction.ipynb```: get i,j indices of section between two Lat/Lon points
+* ```xr_apply_ufunc_spatial_correlation.ipynb```: calculate a correlation between one time series and each point of a lat,lon,time array using xr.apply_ufunc
